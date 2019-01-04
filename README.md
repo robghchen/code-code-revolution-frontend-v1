@@ -4,7 +4,7 @@
 
 * Description
 Test how fast you can code with common programming keywords and see how you fare with other users complete with comments feature.
-Backend built with [[https://github.com/robertchen234/CodeCodeRevolution-backend][Ruby on Rails]] with [[https://www.postgresql.org/][Postgres]] database.
+Backend built with [[https://github.com/robertchen234/code-code-revolution-backend][Ruby on Rails]] with [[https://www.postgresql.org/][Postgres]] database.
 
 A simple HTML5 typing test webapp written with [[http://www.ecma-international.org/ecma-262/6.0/][ECMAScript 2015]],
 compiled with [[https://babeljs.io/][Babel]], styled with [[http://sass-lang.com/][Sass]], and developed using [[https://github.com/lepture/python-livereload][Python
